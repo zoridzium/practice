@@ -1,5 +1,7 @@
 body{
     background: lightcoral;
+    width: 970px;
+    margin: 0 auto;
 }
 p{
     font-size: 32px;
